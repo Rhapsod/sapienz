@@ -1,0 +1,4 @@
+base=/system
+export CLASSPATH=$base/framework/motifcore.jar
+trap "" HUP
+exec app_process $base/bin com.android.commands.motifcore.Motifcore $*
