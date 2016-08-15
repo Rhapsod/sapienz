@@ -12,7 +12,7 @@ Publication:
     title = "Sapienz: Multi-objective Automated Testing for {Android} Applications",
     booktitle = "Proc. of ISSTA'16",
     year = "2016", 
-    note = {To appear}
+    pages = {94--105}
 } 
 ```
 
