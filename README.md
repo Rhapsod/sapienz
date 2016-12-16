@@ -3,7 +3,7 @@ Sapienz: Multi-objective Automated Testing for Android Applications
 
 <img src="http://www.sapienz.tk/content/images/2015/12/sapienz_screenshot.jpg" width="450px">
 
-Sapienz is an implementation of the Sapienz approach for multi-objective automated testing for Android applications.  
+This is a research prototype of the Sapienz approach for multi-objective automated testing for Android applications.  
 
 Publication:
 ```
@@ -15,9 +15,6 @@ Publication:
     pages = {94--105}
 } 
 ```
-
-## Demo Videos in a Real-world Setting
-Available at [sapienz.tk] (http://www.sapienz.tk)
 
 
 ## Installation
