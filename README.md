@@ -1,7 +1,5 @@
-## Sapienz
+## Sapienz (ISSTA'16 Artefact)
 Sapienz: Multi-objective Automated Testing for Android Applications  
-
-<img src="http://www.sapienz.tk/content/images/2015/12/sapienz_screenshot.jpg" width="450px">
 
 This is a research prototype of the Sapienz approach for multi-objective automated testing for Android applications.  
 
@@ -16,10 +14,9 @@ Publication:
 } 
 ```
 
-
 ## Installation
 
-Simply clone the source code from this repository and apply the following environment configuration: 
+Simply download the artefact [here] (http://www0.cs.ucl.ac.uk/staff/K.Mao/archive/issta16_artefact.zip) and apply the following environment configuration: 
 
 ### Environment Configration
 * Python: 2.7
@@ -73,9 +70,6 @@ Output content:
 * This version is ready for emulators. 
 It also supports real devices, you may need to adapt related code for your specific devices.
 
-
-## License
-[BSD License] (https://github.com/Rhapsod/sapienz/blob/master/LICENSE)
 
 
 ## Contact
