@@ -1,7 +1,7 @@
-## Sapienz (ISSTA'16 Artefact)
+## Sapienz Prototype (Out-of-date)
 Sapienz: Multi-objective Automated Testing for Android Applications  
 
-This is a research prototype of the Sapienz approach for multi-objective automated testing for Android applications.  
+This is a prototype of the Sapienz approach for multi-objective automated testing for Android applications.  
 
 Publication:
 ```
@@ -67,9 +67,7 @@ Output content:
 * This implementation has been tested with Android 4.4, running on Ubuntu 14.04 and Mac OS 10.10
 * If measure statement coverage for open-sourced apps, the subjects need to be processed to support EMMA instrumentation:
 (Please refer to Dynodroid https://code.google.com/archive/p/dyno-droid/)
-* This version is ready for emulators. 
-It also supports real devices, you may need to adapt related code for your specific devices.
-
+* This version is only for emulators running on a physical PC. 
 
 
 ## Contact
