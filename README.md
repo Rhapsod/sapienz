@@ -1,7 +1,8 @@
 ## Sapienz Prototype (Out-of-date)
 Sapienz: Multi-objective Automated Testing for Android Applications  
 
-This is a prototype of the Sapienz approach for multi-objective automated testing for Android applications.  
+This is a prototype of the Sapienz approach for multi-objective automated testing for Android applications.
+Please note that this repository is no longer maintained.
 
 Publication:
 ```
@@ -16,7 +17,7 @@ Publication:
 
 ## Installation
 
-Simply download the artefact [here] (http://www0.cs.ucl.ac.uk/staff/K.Mao/archive/issta16_artefact.zip) and apply the following environment configuration: 
+Simply download the artefact [here](https://github.com/Rhapsod/sapienz/tree/0ca2fccdf359675bc9bfe88266469fa40171ef4c) and apply the following environment configuration: 
 
 ### Environment Configration
 * Python: 2.7
