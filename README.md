@@ -17,7 +17,7 @@ Publication:
 
 ## Installation
 
-Simply download the artefact [here](https://github.com/Rhapsod/sapienz/tree/0ca2fccdf359675bc9bfe88266469fa40171ef4c) and apply the following environment configuration: 
+Simply download the artefact [here](https://github.com/Rhapsod/sapienz/tree/d0f06c30800332bbafa7cf0ed32379fe1abcad5d) and apply the following environment configuration: 
 
 ### Environment Configration
 * Python: 2.7
