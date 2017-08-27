@@ -17,7 +17,7 @@ Publication:
 
 ## Installation
 
-Simply download the artefact [here](https://github.com/Rhapsod/sapienz/tree/d0f06c30800332bbafa7cf0ed32379fe1abcad5d) and apply the following environment configuration: 
+Simply download the artefact [here](https://github.com/Rhapsod/sapienz/archive/d0f06c30800332bbafa7cf0ed32379fe1abcad5d.zip) and apply the following environment configuration: 
 
 ### Environment Configration
 * Python: 2.7
@@ -47,7 +47,7 @@ or you can specify source\_folder\_path for the subject app with source code
 * closed-source/non-instrumented apk name should end with ".apk" 
 
 ### Settings
-* ANDROID\_HOME and WORKING\_DIR in [settings.py](https://github.com/Rhapsod/sapienz/blob/master/settings.py) should be set before starting Sapeinz.
+* ANDROID\_HOME and WORKING\_DIR in settings.py should be set before starting Sapeinz.
 
 ### Output
 * for open-sourced apps, outputs are stored under the given source folder
